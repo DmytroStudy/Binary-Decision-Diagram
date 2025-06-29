@@ -1,0 +1,3 @@
+C:/Users/Dmytro/1.Study/DSA/Zadanie6/cmake-build-debug/CMakeFiles/Zadanie6.dir
+C:/Users/Dmytro/1.Study/DSA/Zadanie6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dmytro/1.Study/DSA/Zadanie6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
